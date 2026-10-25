@@ -1,0 +1,2934 @@
+2026-10-25 11:00:49,635 INFO Bot iniciado en PAPER. Exchange=binance símbolo=BTC/USDT timeframe=5m
+2026-10-25 11:00:49,635 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 11:00:49,890 INFO Vela cerrada 2026-10-25 09:55:00+00:00 | close=80328.32 | EMA9=80290.42 EMA21=80351.53 EMA200=80596.78 RSI=45.20 | sin señal
+2026-10-25 11:05:09,784 INFO Vela cerrada 2026-10-25 10:00:00+00:00 | close=80345.25 | EMA9=80301.39 EMA21=80350.96 EMA200=80596.49 RSI=46.74 | sin señal
+2026-10-25 11:10:14,765 INFO Vela cerrada 2026-10-25 10:05:00+00:00 | close=80369.86 | EMA9=80315.08 EMA21=80352.67 EMA200=80591.02 RSI=48.99 | sin señal
+2026-10-25 11:10:42,324 INFO Bot detenido por usuario.
+2026-10-25 11:11:28,037 INFO Bot iniciado en PAPER. Exchange=bitget símbolo=BTC/USDT timeframe=5m
+2026-10-25 11:11:28,038 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 11:11:28,311 INFO Vela cerrada 2026-10-25 10:05:00+00:00 | close=80368.15 | EMA9=80314.72 EMA21=80352.78 EMA200=80591.05 RSI=48.85 | sin señal
+2026-10-25 11:15:02,165 INFO Vela cerrada 2026-10-25 10:10:00+00:00 | close=80395.78 | EMA9=80330.93 EMA21=80356.69 EMA200=80589.61 RSI=51.25 | sin señal
+2026-10-25 11:17:52,608 INFO Bot detenido por usuario.
+2026-10-25 11:19:12,267 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 11:19:12,267 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 11:19:13,326 INFO Vela cerrada 2026-10-25 10:10:00+00:00 | close=80308.10 | EMA9=80233.83 EMA21=80260.20 EMA200=80488.02 RSI=51.91 | sin señal
+2026-10-25 11:20:13,892 INFO Vela cerrada 2026-10-25 10:15:00+00:00 | close=80293.42 | EMA9=80245.75 EMA21=80263.22 EMA200=80486.26 RSI=50.67 | sin señal
+2026-10-25 11:25:01,565 INFO Vela cerrada 2026-10-25 10:20:00+00:00 | close=80260.57 | EMA9=80248.71 EMA21=80262.98 EMA200=80483.37 RSI=47.90 | sin señal
+2026-10-25 11:27:05,191 INFO Bot detenido por usuario.
+2026-10-25 11:27:21,661 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 11:27:21,662 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 11:27:22,726 INFO Vela cerrada 2026-10-25 10:20:00+00:00 | close=80260.57 | EMA9=80248.71 EMA21=80262.98 EMA200=80483.37 RSI=47.90 | sin señal
+2026-10-25 11:30:09,248 INFO Vela cerrada 2026-10-25 10:25:00+00:00 | close=80256.62 | EMA9=80250.30 EMA21=80262.40 EMA200=80477.75 RSI=47.56 | sin señal
+2026-10-25 11:33:50,200 INFO Bot detenido por usuario.
+2026-10-25 11:33:53,195 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 11:33:53,195 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 11:33:54,257 INFO Vela cerrada 2026-10-25 10:25:00+00:00 | close=80256.62 | EMA9=80250.30 EMA21=80262.40 EMA200=80477.75 RSI=47.56 | sin señal
+2026-10-25 11:34:22,208 INFO Bot detenido por usuario.
+2026-10-25 11:34:25,577 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 11:34:25,577 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 11:34:26,645 INFO Vela cerrada 2026-10-25 10:25:00+00:00 | close=80256.62 | EMA9=80250.30 EMA21=80262.40 EMA200=80477.75 RSI=47.56 | sin señal
+2026-10-25 11:35:12,050 INFO Vela cerrada 2026-10-25 10:30:00+00:00 | close=80192.77 | EMA9=80238.79 EMA21=80256.07 EMA200=80474.25 RSI=42.38 | sin señal
+2026-10-25 11:40:14,828 INFO Vela cerrada 2026-10-25 10:35:00+00:00 | close=80220.68 | EMA9=80235.17 EMA21=80252.85 EMA200=80474.29 RSI=45.19 | sin señal
+2026-10-25 11:45:02,331 INFO Vela cerrada 2026-10-25 10:40:00+00:00 | close=80233.41 | EMA9=80234.82 EMA21=80251.08 EMA200=80474.59 RSI=46.48 | sin señal
+2026-10-25 11:50:04,966 INFO Vela cerrada 2026-10-25 10:45:00+00:00 | close=80148.02 | EMA9=80217.46 EMA21=80241.71 EMA200=80472.69 RSI=39.76 | sin señal
+2026-10-25 11:55:07,709 INFO Vela cerrada 2026-10-25 10:50:00+00:00 | close=80121.13 | EMA9=80198.19 EMA21=80230.75 EMA200=80469.73 RSI=37.90 | sin señal
+2026-10-25 12:00:10,383 INFO Vela cerrada 2026-10-25 10:55:00+00:00 | close=80183.89 | EMA9=80195.33 EMA21=80226.49 EMA200=80465.21 RSI=44.43 | sin señal
+2026-10-25 12:01:26,006 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 634, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792926085956&region=EEA
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 53, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 25, in fetch_candles
+        data = exchange.fetch_ohlcv(
+               ~~~~~~~~~~~~~~~~~~~~^
+        symbol,
+        ^^^^^^^
+    ...<2 lines>...
+        params={"region": "EEA"}
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 652, in fetch
+    self.handle_http_status_code(http_status_code, http_status_text, url, method, http_response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 2113, in handle_http_status_code
+    raise ErrorClass(self.id + ' ' + method + ' ' + url + ' ' + codeAsString + ' ' + reason + ' ' + body)
+ccxt.base.errors.RateLimitExceeded: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792926085956&region=EEA 429 Too Many Requests {"message":"Rate limit exceeded","error_id":"793ace63-b284-46ef-b821-474a4eae3d36","timestamp":1792926086109}
+2026-10-25 12:05:13,170 INFO Vela cerrada 2026-10-25 11:00:00+00:00 | close=80308.93 | EMA9=80218.05 EMA21=80233.99 EMA200=80463.31 RSI=54.65 | sin señal
+2026-10-25 12:09:38,730 INFO Bot detenido por usuario.
+2026-10-25 12:10:21,308 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 12:10:21,309 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 12:10:22,368 INFO Vela cerrada 2026-10-25 11:05:00+00:00 | close=80206.62 | EMA9=80215.76 EMA21=80231.50 EMA200=80458.84 RSI=47.03 | sin señal
+2026-10-25 12:15:23,102 INFO Vela cerrada 2026-10-25 11:10:00+00:00 | close=80239.02 | EMA9=80220.42 EMA21=80232.18 EMA200=80457.02 RSI=49.43 | sin señal
+2026-10-25 12:20:24,163 INFO Vela cerrada 2026-10-25 11:15:00+00:00 | close=80334.67 | EMA9=80243.27 EMA21=80241.50 EMA200=80457.85 RSI=55.82 | sin señal
+2026-10-25 12:25:24,803 INFO Vela cerrada 2026-10-25 11:20:00+00:00 | close=80323.06 | EMA9=80259.23 EMA21=80248.91 EMA200=80462.04 RSI=54.91 | sin señal
+2026-10-25 12:30:25,466 INFO Vela cerrada 2026-10-25 11:25:00+00:00 | close=80315.92 | EMA9=80270.56 EMA21=80255.01 EMA200=80459.40 RSI=54.33 | sin señal
+2026-10-25 12:35:26,192 INFO Vela cerrada 2026-10-25 11:30:00+00:00 | close=80282.78 | EMA9=80273.01 EMA21=80257.53 EMA200=80456.85 RSI=51.58 | sin señal
+2026-10-25 12:40:26,940 INFO Vela cerrada 2026-10-25 11:35:00+00:00 | close=80312.29 | EMA9=80280.86 EMA21=80262.51 EMA200=80455.39 RSI=53.82 | sin señal
+2026-10-25 12:45:27,670 INFO Vela cerrada 2026-10-25 11:40:00+00:00 | close=80434.35 | EMA9=80311.56 EMA21=80278.13 EMA200=80452.77 RSI=61.70 | sin señal
+2026-10-25 12:50:28,428 INFO Vela cerrada 2026-10-25 11:45:00+00:00 | close=80476.15 | EMA9=80344.48 EMA21=80296.13 EMA200=80454.38 RSI=63.96 | sin señal
+2026-10-25 12:55:29,149 INFO Vela cerrada 2026-10-25 11:50:00+00:00 | close=80512.46 | EMA9=80378.08 EMA21=80315.80 EMA200=80456.49 RSI=65.85 | sin señal
+2026-10-25 13:00:29,986 INFO Vela cerrada 2026-10-25 11:55:00+00:00 | close=80488.20 | EMA9=80400.10 EMA21=80331.47 EMA200=80456.02 RSI=63.46 | sin señal
+2026-10-25 13:05:30,733 INFO Vela cerrada 2026-10-25 12:00:00+00:00 | close=80432.83 | EMA9=80406.65 EMA21=80340.69 EMA200=80456.44 RSI=58.25 | sin señal
+2026-10-25 13:10:31,433 INFO Vela cerrada 2026-10-25 12:05:00+00:00 | close=80413.47 | EMA9=80408.01 EMA21=80347.30 EMA200=80454.51 RSI=56.50 | sin señal
+2026-10-25 13:15:32,265 INFO Vela cerrada 2026-10-25 12:10:00+00:00 | close=80393.88 | EMA9=80405.18 EMA21=80351.54 EMA200=80451.15 RSI=54.72 | sin señal
+2026-10-25 13:20:32,978 INFO Vela cerrada 2026-10-25 12:15:00+00:00 | close=80350.00 | EMA9=80394.15 EMA21=80351.40 EMA200=80449.22 RSI=50.84 | sin señal
+2026-10-25 13:25:33,628 INFO Vela cerrada 2026-10-25 12:20:00+00:00 | close=80330.00 | EMA9=80381.32 EMA21=80349.45 EMA200=80449.85 RSI=49.13 | sin señal
+2026-10-25 13:30:34,262 INFO Vela cerrada 2026-10-25 12:25:00+00:00 | close=80238.92 | EMA9=80352.84 EMA21=80339.40 EMA200=80448.55 RSI=42.17 | sin señal
+2026-10-25 13:35:34,942 INFO Vela cerrada 2026-10-25 12:30:00+00:00 | close=80254.77 | EMA9=80333.22 EMA21=80331.71 EMA200=80446.12 RSI=43.67 | sin señal
+2026-10-25 13:40:35,648 INFO Vela cerrada 2026-10-25 12:35:00+00:00 | close=80324.62 | EMA9=80331.50 EMA21=80331.07 EMA200=80445.37 RSI=49.82 | sin señal
+2026-10-25 13:45:36,321 INFO Vela cerrada 2026-10-25 12:40:00+00:00 | close=80308.11 | EMA9=80326.83 EMA21=80328.98 EMA200=80443.36 RSI=48.47 | sin señal
+2026-10-25 13:50:37,014 INFO Vela cerrada 2026-10-25 12:45:00+00:00 | close=80344.51 | EMA9=80330.36 EMA21=80330.39 EMA200=80440.84 RSI=51.59 | sin señal
+2026-10-25 13:55:37,699 INFO Vela cerrada 2026-10-25 12:50:00+00:00 | close=80327.55 | EMA9=80329.80 EMA21=80330.13 EMA200=80440.77 RSI=50.07 | sin señal
+2026-10-25 14:00:38,560 INFO Vela cerrada 2026-10-25 12:55:00+00:00 | close=80354.86 | EMA9=80334.81 EMA21=80332.38 EMA200=80438.97 RSI=52.49 | sin señal
+2026-10-25 14:05:40,284 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792933539138&region=EEA
+2026-10-25 14:06:40,541 INFO Vela cerrada 2026-10-25 13:00:00+00:00 | close=80295.62 | EMA9=80326.97 EMA21=80329.04 EMA200=80439.96 RSI=47.15 | sin señal
+2026-10-25 14:10:41,204 INFO Vela cerrada 2026-10-25 13:05:00+00:00 | close=80330.79 | EMA9=80327.74 EMA21=80329.20 EMA200=80442.52 RSI=50.38 | sin señal
+2026-10-25 14:12:01,209 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 542, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 373, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='revx.revolut.com', port=443): Read timed out. (read timeout=20.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 742, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='revx.revolut.com', port=443): Read timed out. (read timeout=20.0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 638, in fetch
+    raise RequestTimeout(details) from e
+ccxt.base.errors.RequestTimeout: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792933901204&region=EEA
+2026-10-25 14:15:01,702 INFO Vela cerrada 2026-10-25 13:10:00+00:00 | close=80316.13 | EMA9=80325.42 EMA21=80328.01 EMA200=80443.81 RSI=49.03 | sin señal
+2026-10-25 14:20:02,748 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792934402221&region=EEA
+2026-10-25 14:21:02,993 INFO Vela cerrada 2026-10-25 13:15:00+00:00 | close=80300.00 | EMA9=80320.33 EMA21=80325.46 EMA200=80443.21 RSI=47.53 | sin señal
+2026-10-25 14:22:12,559 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792934522994&region=EEA
+2026-10-25 14:25:17,684 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792934712923&region=EEA
+2026-10-25 14:26:18,959 INFO Vela cerrada 2026-10-25 13:20:00+00:00 | close=80270.95 | EMA9=80310.46 EMA21=80320.51 EMA200=80442.58 RSI=44.86 | sin señal
+2026-10-25 14:30:19,526 INFO Vela cerrada 2026-10-25 13:25:00+00:00 | close=80179.28 | EMA9=80284.22 EMA21=80307.67 EMA200=80440.07 RSI=37.67 | sin señal
+2026-10-25 14:32:24,426 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792935139650&region=EEA
+2026-10-25 14:35:24,986 INFO Vela cerrada 2026-10-25 13:30:00+00:00 | close=80180.70 | EMA9=80263.52 EMA21=80296.13 EMA200=80436.46 RSI=37.84 | sin señal
+2026-10-25 14:40:25,643 INFO Vela cerrada 2026-10-25 13:35:00+00:00 | close=80253.64 | EMA9=80261.54 EMA21=80292.26 EMA200=80436.38 RSI=45.83 | sin señal
+2026-10-25 14:43:27,073 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792935805919&region=EEA
+2026-10-25 14:45:27,516 INFO Vela cerrada 2026-10-25 13:40:00+00:00 | close=80283.93 | EMA9=80266.02 EMA21=80291.51 EMA200=80434.68 RSI=48.77 | sin señal
+2026-10-25 14:46:37,063 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792935987517&region=EEA
+2026-10-25 14:48:42,058 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792936117311&region=EEA
+2026-10-25 14:50:42,419 INFO Vela cerrada 2026-10-25 13:45:00+00:00 | close=80295.65 | EMA9=80271.95 EMA21=80291.88 EMA200=80432.44 RSI=49.91 | sin señal
+2026-10-25 14:55:47,738 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792936542971&region=EEA
+2026-10-25 14:56:47,981 INFO Vela cerrada 2026-10-25 13:50:00+00:00 | close=80300.02 | EMA9=80277.56 EMA21=80292.62 EMA200=80432.85 RSI=50.35 | sin señal
+2026-10-25 15:00:48,514 INFO Vela cerrada 2026-10-25 13:55:00+00:00 | close=80280.02 | EMA9=80278.05 EMA21=80291.48 EMA200=80429.05 RSI=48.25 | sin señal
+2026-10-25 15:05:49,222 INFO Vela cerrada 2026-10-25 14:00:00+00:00 | close=80235.99 | EMA9=80269.64 EMA21=80286.43 EMA200=80426.86 RSI=43.92 | sin señal
+2026-10-25 15:07:49,418 WARNING L?mite 429 del exchange. Esperando 30 segundos antes del reintento 2/3.
+2026-10-25 15:10:19,851 INFO Vela cerrada 2026-10-25 14:05:00+00:00 | close=80267.00 | EMA9=80269.11 EMA21=80284.67 EMA200=80422.54 RSI=47.49 | sin señal
+2026-10-25 15:11:24,624 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792937479851&region=EEA
+2026-10-25 15:12:35,703 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 989, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 246, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='revx.revolut.com', port=443): Failed to resolve 'revx.revolut.com' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='revx.revolut.com', port=443): Max retries exceeded with url: /api/1.0/public/candles/BTC-USD?interval=5&until=1792937544627&region=EEA (Caused by NameResolutionError("HTTPSConnection(host='revx.revolut.com', port=443): Failed to resolve 'revx.revolut.com' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='revx.revolut.com', port=443): Max retries exceeded with url: /api/1.0/public/candles/BTC-USD?interval=5&until=1792937544627&region=EEA (Caused by NameResolutionError("HTTPSConnection(host='revx.revolut.com', port=443): Failed to resolve 'revx.revolut.com' ([Errno 11001] getaddrinfo failed)"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792937544627&region=EEA
+2026-10-25 15:15:52,717 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792937743157&region=EEA
+2026-10-25 15:16:52,955 INFO Vela cerrada 2026-10-25 14:10:00+00:00 | close=80299.71 | EMA9=80275.23 EMA21=80286.03 EMA200=80423.19 RSI=51.04 | sin señal
+2026-10-25 15:20:53,555 INFO Vela cerrada 2026-10-25 14:15:00+00:00 | close=80210.73 | EMA9=80262.33 EMA21=80279.19 EMA200=80422.13 RSI=42.61 | sin señal
+2026-10-25 15:22:03,121 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792938113556&region=EEA
+2026-10-25 15:25:03,596 INFO Vela cerrada 2026-10-25 14:20:00+00:00 | close=80260.03 | EMA9=80261.87 EMA21=80277.45 EMA200=80418.28 RSI=47.76 | sin señal
+2026-10-25 15:30:04,338 INFO Vela cerrada 2026-10-25 14:25:00+00:00 | close=80224.32 | EMA9=80254.36 EMA21=80272.62 EMA200=80413.18 RSI=44.63 | sin señal
+2026-10-25 15:33:05,764 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792938784624&region=EEA
+2026-10-25 15:35:06,137 INFO Vela cerrada 2026-10-25 14:30:00+00:00 | close=80245.19 | EMA9=80252.53 EMA21=80270.12 EMA200=80413.09 RSI=46.82 | sin señal
+2026-10-25 15:39:16,076 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792939146531&region=EEA
+2026-10-25 15:40:19,366 INFO Vela cerrada 2026-10-25 14:35:00+00:00 | close=80262.22 | EMA9=80254.47 EMA21=80269.40 EMA200=80410.38 RSI=48.61 | sin señal
+2026-10-25 15:41:19,901 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792939279367&region=EEA
+2026-10-25 15:43:32,756 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792939403190&region=EEA
+2026-10-25 15:45:33,137 INFO Vela cerrada 2026-10-25 14:40:00+00:00 | close=80328.46 | EMA9=80269.26 EMA21=80274.77 EMA200=80412.12 RSI=54.95 | sin señal
+2026-10-25 15:50:33,838 INFO Vela cerrada 2026-10-25 14:45:00+00:00 | close=80339.00 | EMA9=80283.21 EMA21=80280.61 EMA200=80409.61 RSI=55.88 | sin señal
+2026-10-25 15:51:36,177 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792939893839&region=EEA
+2026-10-25 15:55:36,849 INFO Vela cerrada 2026-10-25 14:50:00+00:00 | close=80454.59 | EMA9=80317.49 EMA21=80296.43 EMA200=80412.15 RSI=64.55 | sin señal
+2026-10-25 15:56:46,406 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792940196850&region=EEA
+2026-10-25 16:00:47,126 INFO Vela cerrada 2026-10-25 14:55:00+00:00 | close=80549.77 | EMA9=80363.94 EMA21=80319.46 EMA200=80412.98 RSI=69.81 | sin señal
+2026-10-25 16:02:48,410 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792940567256&region=EEA
+2026-10-25 16:05:55,958 INFO Vela cerrada 2026-10-25 15:00:00+00:00 | close=80614.83 | EMA9=80414.12 EMA21=80346.31 EMA200=80405.79 RSI=72.78 | sin señal
+2026-10-25 16:09:05,843 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792940936257&region=EEA
+2026-10-25 16:10:06,097 INFO Vela cerrada 2026-10-25 15:05:00+00:00 | close=80589.92 | EMA9=80449.28 EMA21=80368.46 EMA200=80392.33 RSI=69.94 | sin señal
+2026-10-25 16:12:06,451 ERROR Error leyendo mercado/procesando vela; no se abre ninguna operación.
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\urllib3\connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 1478, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 343, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 304, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\franc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 605, in fetch
+    response = self.session.request(
+        method,
+    ...<6 lines>...
+        files=files
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\requests\adapters.py", line 711, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\btc_scalper_5m\bot.py", line 84, in main
+    df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+  File "C:\btc_scalper_5m\bot.py", line 30, in fetch_candles
+    data = exchange.fetch_ohlcv(
+        symbol,
+    ...<2 lines>...
+        params=params,
+    )
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\revolutx.py", line 676, in fetch_ohlcv
+    response = self.publicGet10PublicCandlesSymbol(self.extend(request, params))
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\types.py", line 43, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6018, in request
+    return self.fetch2(path, api, method, params, config)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 6012, in fetch2
+    raise e
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 5995, in fetch2
+    response = self.fetch(request['url'], request['method'], request['headers'], request['body'])
+  File "C:\btc_scalper_5m\.venv\Lib\site-packages\ccxt\base\exchange.py", line 661, in fetch
+    raise NetworkError(details) from e
+ccxt.base.errors.NetworkError: revolutx GET https://revx.revolut.com/api/1.0/public/candles/BTC-USD?interval=5&until=1792941126228&region=EEA
+2026-10-25 16:15:06,982 INFO Vela cerrada 2026-10-25 15:10:00+00:00 | close=80586.77 | EMA9=80476.78 EMA21=80388.30 EMA200=80388.51 RSI=69.57 | sin señal
+2026-10-25 16:20:07,648 INFO Vela cerrada 2026-10-25 15:15:00+00:00 | close=80539.28 | EMA9=80489.28 EMA21=80402.03 EMA200=80399.49 RSI=64.07 | sin señal
+2026-10-25 16:25:08,330 INFO Vela cerrada 2026-10-25 15:20:00+00:00 | close=80441.53 | EMA9=80479.73 EMA21=80405.62 EMA200=80403.46 RSI=54.52 | sin señal
+2026-10-25 16:30:08,953 INFO Vela cerrada 2026-10-25 15:25:00+00:00 | close=80471.69 | EMA9=80478.12 EMA21=80411.63 EMA200=80399.46 RSI=56.67 | sin señal
+2026-10-25 16:35:09,640 INFO Vela cerrada 2026-10-25 15:30:00+00:00 | close=80539.57 | EMA9=80490.41 EMA21=80423.26 EMA200=80398.34 RSI=61.12 | sin señal
+2026-10-25 16:40:10,377 INFO Vela cerrada 2026-10-25 15:35:00+00:00 | close=80590.00 | EMA9=80510.33 EMA21=80438.42 EMA200=80399.71 RSI=64.07 | sin señal
+2026-10-25 16:41:40,551 INFO Bot detenido por usuario.
+2026-10-25 16:41:43,815 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 16:41:43,815 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 16:41:44,867 INFO Vela cerrada 2026-10-25 15:35:00+00:00 | close=80590.00 | EMA9=80510.33 EMA21=80438.42 EMA200=80399.71 RSI=64.07 | sin señal
+2026-10-25 16:43:25,864 INFO Bot detenido por usuario.
+2026-10-25 16:44:21,336 INFO Bot iniciado en PAPER. Exchange=revolutx símbolo=BTC/USD timeframe=5m
+2026-10-25 16:44:21,336 INFO No se envían órdenes reales. Ctrl+C para detener.
+2026-10-25 16:44:22,385 INFO Vela cerrada 2026-10-25 15:35:00+00:00 | close=80590.00 | EMA9=80510.33 EMA21=80438.42 EMA200=80399.71 RSI=64.07 | sin señal
+2026-10-25 16:45:22,525 INFO Vela cerrada 2026-10-25 15:40:00+00:00 | close=80565.05 | EMA9=80521.27 EMA21=80449.93 EMA200=80403.27 RSI=61.58 | sin señal
+2026-10-25 16:50:23,174 INFO Vela cerrada 2026-10-25 15:45:00+00:00 | close=80578.98 | EMA9=80532.81 EMA21=80461.66 EMA200=80402.45 RSI=62.45 | sin señal
+2026-10-25 16:53:14,453 INFO Bot detenido por usuario.

@@ -1,0 +1,46 @@
+import numpy as np
+import pandas as pd
+
+REQUIRED_COLUMNS = {"timestamp", "open", "high", "low", "close", "volume"}
+
+def add_indicators(df: pd.DataFrame) -> pd.DataFrame:
+    missing = REQUIRED_COLUMNS - set(df.columns)
+    if missing:
+        raise ValueError(f"Faltan columnas OHLCV: {sorted(missing)}")
+    out = df.copy().sort_values("timestamp").drop_duplicates("timestamp").reset_index(drop=True)
+    close = out["close"].astype(float)
+    high = out["high"].astype(float)
+    low = out["low"].astype(float)
+
+    out["ema9"] = close.ewm(span=9, adjust=False).mean()
+    out["ema21"] = close.ewm(span=21, adjust=False).mean()
+    out["ema200"] = close.ewm(span=200, adjust=False).mean()
+
+    delta = close.diff()
+    gain = delta.clip(lower=0)
+    loss = -delta.clip(upper=0)
+    avg_gain = gain.ewm(alpha=1/14, adjust=False, min_periods=14).mean()
+    avg_loss = loss.ewm(alpha=1/14, adjust=False, min_periods=14).mean()
+    rs = avg_gain / avg_loss.replace(0, np.nan)
+    out["rsi14"] = 100 - (100 / (1 + rs))
+    out.loc[(avg_loss == 0) & (avg_gain > 0), "rsi14"] = 100
+
+    prev_close = close.shift(1)
+    tr = pd.concat([
+        high - low,
+        (high - prev_close).abs(),
+        (low - prev_close).abs()
+    ], axis=1).max(axis=1)
+    out["atr14"] = tr.ewm(alpha=1/14, adjust=False, min_periods=14).mean()
+
+    # Entry only on a fresh RSI cross above 50, in an established uptrend.
+    out["entry_signal"] = (
+        (out["close"] > out["ema200"]) &
+        (out["ema9"] > out["ema21"]) &
+        (out["rsi14"].shift(1) <= 50) &
+        (out["rsi14"] > 50) &
+        out["atr14"].notna()
+    )
+    # Exit on trend deterioration; stop/target are handled by the engine.
+    out["exit_signal"] = out["ema9"] < out["ema21"]
+    return out

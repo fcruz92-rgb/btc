@@ -1,0 +1,76 @@
+import time
+import logging
+from pathlib import Path
+import ccxt
+import pandas as pd
+from config import Config
+from strategy import add_indicators
+from engine import PaperEngine
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+    handlers=[logging.FileHandler("bot.log", encoding="utf-8"), logging.StreamHandler()]
+)
+
+def make_exchange(cfg):
+    if cfg.exchange_id not in ccxt.exchanges:
+        raise ValueError(f"Exchange CCXT desconocido: {cfg.exchange_id}")
+    # Public market data only. No API key is needed for paper mode.
+    exchange_class = getattr(ccxt, cfg.exchange_id)
+    exchange = exchange_class({"enableRateLimit": True, "timeout": 20000})
+    return exchange
+
+def fetch_candles(exchange, symbol, timeframe, limit=300):
+    data = exchange.fetch_ohlcv(
+    symbol,
+    timeframe=timeframe,
+    limit=limit,
+    params={"region": "EEA"}
+)
+    df = pd.DataFrame(data, columns=["timestamp", "open", "high", "low", "close", "volume"])
+    df["timestamp"] = pd.to_datetime(df["timestamp"], unit="ms", utc=True).astype(str)
+    # Exclude the still-forming candle; trade only after candle close.
+    if len(df) > 1:
+        df = df.iloc[:-1].copy()
+    return df
+
+def main():
+    cfg = Config()
+    cfg.validate()
+    if cfg.mode != "paper":
+        raise RuntimeError("Esta versión ejecuta solo MODE=paper. No envía órdenes reales.")
+    exchange = make_exchange(cfg)
+    exchange.load_markets(params={"region": "EEA"})
+    if cfg.symbol not in exchange.markets:
+        raise ValueError(f"{cfg.symbol} no está disponible en {cfg.exchange_id}.")
+    engine = PaperEngine(cfg)
+    last_timestamp = None
+    logging.info("Bot iniciado en PAPER. Exchange=%s símbolo=%s timeframe=%s", cfg.exchange_id, cfg.symbol, cfg.timeframe)
+    logging.info("No se envían órdenes reales. Ctrl+C para detener.")
+    while True:
+        try:
+            df = fetch_candles(exchange, cfg.symbol, cfg.timeframe, 300)
+            if len(df) < 220:
+                logging.warning("Datos insuficientes para EMA200.")
+                time.sleep(cfg.poll_seconds)
+                continue
+            ind = add_indicators(df)
+            row = ind.iloc[-1]
+            ts = str(row["timestamp"])
+            if ts != last_timestamp:
+                last_timestamp = ts
+                msg = engine.on_candle(row)
+                logging.info("Vela cerrada %s | close=%.2f | EMA9=%.2f EMA21=%.2f EMA200=%.2f RSI=%.2f | %s",
+                    ts, row["close"], row["ema9"], row["ema21"], row["ema200"], row["rsi14"],
+                    msg or "sin señal")
+            time.sleep(cfg.poll_seconds)
+        except KeyboardInterrupt:
+            logging.info("Bot detenido por usuario.")
+            break
+        except Exception:
+            logging.exception("Error leyendo mercado/procesando vela; no se abre ninguna operación.")
+            time.sleep(max(cfg.poll_seconds, 15))
+
+if __name__ == "__main__":
+    main()
